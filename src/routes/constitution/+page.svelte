@@ -236,7 +236,7 @@
     <h2 class="sectionHeading" bind:this={two}>Section 2 Drafting</h2>
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
-    <p>The draft order each year will be a Snake draft in reverse order of the previous year’s regular season standings.</p>
+    <p>The draft order each year will be an inverse order of finish draft. Where the worst team gets pick 1 in each round.</p>
 
     <p>Picks 1 through 4 will be determnined on regular season finish. The worst record getting the 1.01 etc...</p>
 
